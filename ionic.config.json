@@ -1,0 +1,7 @@
+{
+  "name": "week-picker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
